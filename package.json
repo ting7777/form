@@ -1,7 +1,7 @@
 {
     "private": true,
     "dependencies": {
-        "jquery": "^3.5.1",
+        "jquery": "^3.6.1",
         "jquery-bsalert": "^2.0.0"
     },
     "devDependencies": {
